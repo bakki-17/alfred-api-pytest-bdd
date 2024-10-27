@@ -1,0 +1,7 @@
+base-url: "http://localhost:8091/"
+headers:
+  accept: "application/json"
+  Content-Type: "application/json" 
+endpoints:
+  products:
+  users:
